@@ -1,0 +1,12 @@
+.AppSideBar {
+  background-color: #202e47;
+  color: #d8f3f0;
+}
+.ant-menu-item-group-title {
+  color: #d8f3f0 !important;
+}
+:where(.css-dev-only-do-not-override-ph9edi).ant-menu-light
+  .ant-menu-item-selected {
+  background-color: #1fc4b1;
+  color: #d8f3f0;
+}

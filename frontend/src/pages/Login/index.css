@@ -1,0 +1,19 @@
+.container-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+  background: linear-gradient(to right, #42b883, #4fb0bd);
+}
+.form {
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: rgba(255, 255, 255, 0.5);
+  box-shadow: 0px 8px 32px 0 rgba(26, 26, 26, 0.5);
+  border-radius: 16px;
+}
+/* .ant-form-item-control-input-content:first-child {
+  text-align: end;
+} */
